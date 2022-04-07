@@ -1,4 +1,6 @@
-# vue3-spring
+# DBManagementSystem
+
+Language used: Vue3, Springboot, Mybatis plus, MySQL
 
 ## Project setup
 ```
